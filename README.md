@@ -8,7 +8,7 @@ inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado na funç
 ## Como Usar
 
 #### 1. Faça o download ou a clonagem desse repositório localmente
-#### 2. Mude a constante "numero" para o valor desejado a ser passado na função, exemplo:
+#### 2. Mude a constante "numero" no arquivo "index.js" para o valor desejado a ser passado na função, exemplo:
 
 ```
 const numero = // seu número
